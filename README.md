@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @rahul-vyas-dev
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+-👋 Hi, I’m @rahul-vyas-dev
+- 👀 I’m interested in working with machine learning and AI technologies.
+- 🌱 I’m currently learning advanced Python programming and data analysis techniques.
+- 💞️ I’m looking to collaborate on open-source AI projects and innovative tech startups.
+- 📫 How to reach me: [rahulvyas.5100@gmail.com]
 
 
 <!---
