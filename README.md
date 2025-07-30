@@ -37,8 +37,8 @@
 
 ## 📫 Connect with Me
 
-- [LinkedIn]( [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/rahul-vyas-a60b83370/) )
-- [X (Twitter)]( [https://x.com/your-handle](https://x.com/RahulVyas496824) )
+- [LinkedIn](https://www.linkedin.com/in/rahul-vyas-a60b83370/)
+- [X (Twitter)](https://x.com/RahulVyas496824) 
 
 ---
 
