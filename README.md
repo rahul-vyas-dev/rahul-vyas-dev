@@ -1,6 +1,6 @@
 <h1> 
  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="300" />
- <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/26a23d12-c3d2-4ec0-a794-a05e3174bad1" />
+ <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="300" alt="animated hello">
  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="300" />
 </h1>
 
@@ -28,32 +28,36 @@
 
 ---
 
-##  Currently Learning
-
-- Advanced System Internals (OS, Event Loop, Browser Rendering)
-- Performance Optimization in Web Apps
-
----
-
 ### 🌐 Connect With Me  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rahul-vyas-a60b83370/" target="_blank">
-    <img width="100" height="1080" alt="image" src="https://github.com/user-attachments/assets/e7813e45-84ae-4175-a377-1147a2c980e2" />
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
   </a>
-  <a href="https://x.com/RahulVyas496824" target="_blank">
-    <img width="100" height="1080" alt="image" src="https://github.com/user-attachments/assets/6256e44f-3922-4a3f-a7b5-fe3fe7884b1c" />
+  <a href="https://discord.com/channels/@me/1463138955653419260" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="100">
   </a>
-<a href="mailto:rahulvyas.5100@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="32" />
+  <a href="mailto:rahulvyas.5100@gmail.com" target="_blank">
+    <img src="https://cdn.dribbble.com/users/2113992/screenshots/14510264/gmail_animation.gif" width="100" />
   </a>
+ <a href="https://x.com/RahulVyas496824" target="_blank">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/cc4fe88c-7f7a-41d8-b449-34b7a178c1c6" width="100">
+ </a>
 </p>
 
 ---
 
 ### 🔁 Always building. Always learning. Always improving.
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="100px" />
+ &nbsp; <b>Thanks for visiting!</b>
+ &nbsp;  &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="100px" />
+</div>
+
+ 
 <!---
 rahul-vyas-dev/rahul-vyas-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
