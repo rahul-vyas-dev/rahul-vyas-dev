@@ -40,7 +40,7 @@
   <a href="mailto:rahulvyas.5100@gmail.com" target="_blank">
     <img src="https://cdn.dribbble.com/users/2113992/screenshots/14510264/gmail_animation.gif" width="100" />
   </a>
- <a href="https://x.com/RahulVyas496824" target="_blank">
+ <a href="https://x.com/_Rahul_vyas" target="_blank">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/cc4fe88c-7f7a-41d8-b449-34b7a178c1c6" width="100">
  </a>
 </p>
